@@ -1,6 +1,6 @@
 # medcare
 
-A new Flutter project.
+A new Flutter project. using Flutter 2.2.2
 
 ## Getting Started
 
